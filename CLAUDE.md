@@ -1,0 +1,1 @@
+C:/Users/akires47/workspace/akires47-website/AGENTS.md
