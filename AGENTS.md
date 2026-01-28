@@ -26,6 +26,13 @@ pnpm run preview
 pnpm run astro <command>
 ```
 
+## Deployment
+
+- **Platform**: Cloudflare Workers (configured via `wrangler.json`)
+- **Build Output**: Static files in `dist/` directory
+- **Compatibility Date**: 2026-01-01
+- Deploy using Cloudflare Workers after building the project
+
 ### Important Notes
 
 - **Prefer `pnpm run build`** over `pnpm run dev` for validation
